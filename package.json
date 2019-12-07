@@ -1,0 +1,16 @@
+{
+  "name": "aoc-2019",
+  "version": "1.0.0",
+  "description": "Personal solutions for 2019's issue of Advent of Code",
+  "keywords": [],
+  "author": "Mex <markus@niederbrucker.at>",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mexn/aoc-2019.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mexn/aoc-2019/issues"
+  },
+  "homepage": "https://github.com/mexn/aoc-2019#readme"
+}
