@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/mexn/aoc-2019#readme",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.3"
   }
 }
